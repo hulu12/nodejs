@@ -43,7 +43,7 @@ db.once('open', function (err) {
     	,title:'test003'
     	,uid : 1004
     	,meta :{
-    		 votes  :12
+    		 votes  :132
     		,favs   :20
     	}
     }).save(function(err) {
